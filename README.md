@@ -1,5 +1,6 @@
 # Basic GAN using PyTorch
-> This project is a basic Generative Adversarial Network (GAN) implemented in PyTorch on the MNIST Database
+
+This project is a basic Generative Adversarial Network (GAN) implemented in PyTorch on the MNIST Database
 
 This is one of my initial steps towards GANs in general. This mostly follows from the idea of GAN first published in [arXiv:1406.2661 [stat.ML]](https://arxiv.org/pdf/1406.2661.pdf) by GoodFellow _et.al._
 
